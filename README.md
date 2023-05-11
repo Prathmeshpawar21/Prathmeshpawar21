@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1">
-<!--     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Prathmesh Pawar" /></a> -->
+    <img src="https://github.com/Prathmeshpawar21/Prathmeshpawar21/blob/main/filename.png" alt="Prathmesh Pawar" /></a>
 </p>
 
 <p align="center">
