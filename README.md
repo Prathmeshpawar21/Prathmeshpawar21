@@ -26,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathmeshpawar21&show_icons=true&locale=en&layout=compact" alt="prathmeshpawar21" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathmeshpawar21&show_icons=true&locale=en" alt="prathmeshpawar21" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prathmeshpawar21&show_icons=true&locale=en" alt="Prathmeshpawar21" /></p>
 
 
 
