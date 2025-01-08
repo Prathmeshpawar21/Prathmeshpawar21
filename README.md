@@ -28,5 +28,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathmeshpawar21&show_icons=true&locale=en" alt="prathmeshpawar21" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=prathmeshpawar21&" alt="prathmeshpawar21" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=prathmeshpawar21&theme=dark" alt="Longest Streak" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathmeshpawar21&show_icons=true&locale=en" alt="prathmeshpawar21" /></p>
 
