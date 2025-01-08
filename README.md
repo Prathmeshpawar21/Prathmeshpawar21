@@ -28,7 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prathmeshpawar21&show_icons=true&locale=en" alt="Prathmeshpawar21" /></p>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Prathmeshpawar21&theme=dark)](https://git.io/streak-stats)
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?username=Prathmeshpawar21&theme=dark&hide_border=true" alt="Longest Streak" /></p>
 
