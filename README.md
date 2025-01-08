@@ -30,5 +30,5 @@
 
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Prathmeshpawar21&theme=dark&hide_border=true" alt="Longest Streak" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?username=Prathmeshpawar21&theme=dark&hide_border=true" alt="Longest Streak" /></p>
 
