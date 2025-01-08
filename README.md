@@ -30,7 +30,5 @@
 
 
 
-
-
-<p><img align="left" src="https://streak-stats.demolab.com?user=prathmeshpawar21&theme=dark" alt="Longest Streak" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Prathmeshpawar21&theme=dark&hide_border=true" alt="Longest Streak" /></p>
 
