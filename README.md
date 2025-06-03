@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathamesh J. Pawar</h1>
-<h3 align="center">A passionate and dedicated Data Scientist from India</h3>
+<h3 align="center">A FULL STACK GEN-AI ENGINEER from India</h3>
 <p align="center">https://prathameshpawar-mu.vercel.app/</p>
 
 
